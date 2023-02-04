@@ -16,6 +16,7 @@
 .heading {
     top: 5%;
     text-align: center;
+    font-weight: 800;
     font-size: 30px;
     position: relative;
 }
@@ -47,6 +48,7 @@ input[type=number] {
     border: none;
     border-bottom: 1px solid black;
     margin: 15px auto;
+    font-weight: 500;
     text-align: right;
     text-align-last: center;
 }
@@ -72,6 +74,7 @@ input[type=text] {
     border: none;
     border-bottom: 1px solid black;
     margin: 15px auto;
+    font-weight: 500;
     text-align: right;
     text-align-last: center;
 }
@@ -92,7 +95,7 @@ input[type=number] {
         overflow-y: hidden;
         position: relative;
         top: 0%;
-        height: 40vh;
+        height: 80vh;
         width: 95%;
         margin-left: auto;
         margin-right: auto;
@@ -121,7 +124,7 @@ input[type=number] {
         overflow: hidden;
         border: 3px solid purple;
         width: 75%;
-        height: 25vh;
+        height: 55vh;
         padding: 5%;
         margin: auto;
     }
